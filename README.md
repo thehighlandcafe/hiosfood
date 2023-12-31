@@ -1,4 +1,4 @@
-# HiOSWebServices for HiOSMobileWeb by HiEnterprises™
+# HiOSWebCore for HiOSFood by The Highland Cafe™ Enterprises
 
 <h2>Hi there!</h2>
 Welcome to the source code for the HiOSWebCore part of the HiOSFood app!
