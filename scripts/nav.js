@@ -21,7 +21,7 @@ function home() {
         document.getElementById('moreIcon').className = "inactiveIcon";
     
         //Changing the iframe source
-        document.getElementById('content').src = "https://thehighlandcafe.github.io/hioswebcore/welcome.html";
+        document.getElementById('content').src = "https://thehighlandcafe.github.io/hioswebcore/restaurant/welcome.html";
     
         //Changing the page's title to match the section
         document.title = "HiOSMobile | Home";
